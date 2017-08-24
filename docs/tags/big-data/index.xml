@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on </title>
+    <link>/tags/big-data/</link>
+    <description>Recent content in Big Data on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Fernando Flores</copyright>
+    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/big-data/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>edX | CS105x: Introduction to Apache Spark | Lab notebooks</title>
+      <link>/project/21-ucb-spark-intro/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/21-ucb-spark-intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edX | CS110x: Big Data Analysis with Apache Spark | Lab notebooks</title>
+      <link>/project/23-ucb-spark-bigdata/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/23-ucb-spark-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edX | CS120x: Distributed Machine Learning with Apache Spark | Lab notebooks</title>
+      <link>/project/22-ucb-spark-ml/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/22-ucb-spark-ml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
