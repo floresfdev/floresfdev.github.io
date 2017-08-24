@@ -1,0 +1,117 @@
+baseurl = "/"
+title = ""
+copyright = "&copy; 2017 Fernando Flores"
+theme = "hugo-academic"
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+disqusShortname = ""
+
+googleAnalytics = ""
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  name = "Fernando Flores"
+  role = "Data science, software development and engineering"
+  organization = ""
+  organization_url = ""
+  gravatar = false
+  avatar = "floresf.jpg"
+  email = "floresf82@gmail.com"
+  address = ""
+  office_hours = ""
+  phone = ""
+  skype = "fernando.flores.ar"
+  telegram = ""
+
+  keybase = ""
+
+  date_format = "Mon, Jan 2, 2006"
+
+  math = false
+
+  highlight = true
+  highlight_languages = []
+
+  sharing = false
+
+  custom_css = []
+  custom_js  = []
+
+  publication_types = [
+    'Uncategorized',
+    'Conference proceedings',
+    'Journal',
+    'Work in progress',
+    'Technical report',
+    'Book',
+    'Book chapter'
+  ]
+
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:floresf82@gmail.com"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/floresf"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://github.com/floresfdev"
+
+  [[params.social]]
+    icon = "gitlab"
+    icon_pack = "fa"
+    link = "https://gitlab.com/floresf"
+
+  [[params.social]]
+    icon = "medium"
+    icon_pack = "fa"
+    link = "https://medium.com/@floresf"
+
+  [[params.social]]
+    icon = "linkedin-square"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/floresf/en"
+
+
+
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 2
+
+[[menu.main]]
+  name = "Reading"
+  url = "#reading"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 4
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+
+[languages.en]
+  languageCode = "en-us"
