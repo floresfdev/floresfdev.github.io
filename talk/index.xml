@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on </title>
+    <link>/talk/</link>
+    <description>Recent content in Talks on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Fernando Flores</copyright>
+    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to provide remote software services</title>
+      <link>/talk/03-provide-remote-services/</link>
+      <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/03-provide-remote-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debate | Battle of the frameworks</title>
+      <link>/talk/02-battle-frameworks/</link>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/02-battle-frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital signature implementation in the public sector</title>
+      <link>/talk/01-digital-signature/</link>
+      <pubDate>Fri, 10 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/01-digital-signature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
