@@ -28,7 +28,7 @@ html {
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 
@@ -529,10 +529,6 @@ article {
 
 .pub-list-item {
   margin-bottom: 40px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-right: 15px;
-  padding-left: 15px;
 }
 
 .pub-list-item .pub-abstract {
