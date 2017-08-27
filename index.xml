@@ -101,6 +101,15 @@
     </item>
     
     <item>
+      <title>edX | 15.071x: The Analytics Edge | Coursework and Kaggle competition</title>
+      <link>/project/11-mit-analytics-edge/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/11-mit-analytics-edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>edX | CS105x: Introduction to Apache Spark | Lab notebooks</title>
       <link>/project/21-ucb-spark-intro/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
@@ -134,16 +143,6 @@
       
       <guid>/project/50-instagram-r-scraper/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34; target=&#34;_blank&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34; target=&#34;_blank&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
