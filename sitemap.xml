@@ -140,6 +140,24 @@
     
     <url>
     
+      <loc>/post/20170827-my-learning-path-in-data-science/</loc>
+      <lastmod>2017-08-27T11:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/</loc>
       <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     </url>
@@ -215,6 +233,16 @@
     <url>
     
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/courses/</loc>
+      <lastmod>2017-08-27T11:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

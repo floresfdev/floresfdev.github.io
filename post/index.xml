@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Fernando Flores</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Fernando Flores</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Fernando Flores</copyright>
+    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My learning path in data science</title>
+      <link>/post/20170827-my-learning-path-in-data-science/</link>
+      <pubDate>Sun, 27 Aug 2017 11:00:00 +0000</pubDate>
+      
+      <guid>/post/20170827-my-learning-path-in-data-science/</guid>
+      <description>&lt;p&gt;For more than two years now, in parallel to my daily data-related work, I&amp;rsquo;ve enrolled in several interesting courses. In this post I&amp;rsquo;d like to describe these as part of my learning path,  even when some of them are no longer active you can still grab the resources.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Coursera&lt;/strong&gt; | &lt;strong&gt;Johns Hopkins University&lt;/strong&gt; | &lt;a href=&#34;https://www.coursera.org/specializations/executive-data-science&#34; target=&#34;_blank&#34;&gt;Executive Data Science Specialization&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A Crash Course in Data Science (&lt;a href=&#34;https://www.coursera.org/learn/data-science-course&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Building a Data Science Team (&lt;a href=&#34;https://www.coursera.org/learn/build-data-science-team&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Managing Data Analysis (&lt;a href=&#34;https://www.coursera.org/learn/managing-data-analysis&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Data Science in Real Life (&lt;a href=&#34;https://www.coursera.org/learn/real-life-data-science&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Coursera&lt;/strong&gt; | &lt;strong&gt;Johns Hopkins University&lt;/strong&gt; | &lt;a href=&#34;https://www.coursera.org/specializations/jhu-data-science&#34; target=&#34;_blank&#34;&gt;Data Science Specialization&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Data Scientist&amp;rsquo;s Toolbox (&lt;a href=&#34;https://www.coursera.org/learn/data-scientists-tools&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;R Programming (&lt;a href=&#34;https://www.coursera.org/learn/r-programming&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Getting and Cleaning Data (&lt;a href=&#34;https://www.coursera.org/learn/data-cleaning&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Exploratory Data Analysis (&lt;a href=&#34;https://www.coursera.org/course/exdata&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Reproducible Research (&lt;a href=&#34;https://www.coursera.org/learn/reproducible-research&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Statistical Inference (&lt;a href=&#34;https://www.coursera.org/learn/statistical-inference&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Regression Models (&lt;a href=&#34;https://www.coursera.org/learn/regression-models&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Coursera&lt;/strong&gt; | &lt;strong&gt;University of Washington&lt;/strong&gt; | Machine Learning Foundations: A Case Study Approach (&lt;a href=&#34;https://www.coursera.org/learn/ml-foundations&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Stanford University&lt;/strong&gt; | Statistical Learning (&lt;a href=&#34;https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Stanford University&lt;/strong&gt; | Writing in the Sciences (&lt;a href=&#34;https://lagunita.stanford.edu/courses/Medicine/SciWrite-SP/SelfPaced/about&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Udacity&lt;/strong&gt; | Data Visualization and D3.js. Communicating with Data (&lt;a href=&#34;https://www.udacity.com/course/data-visualization-and-d3js--ud507&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;edX&lt;/strong&gt; | &lt;strong&gt;MIT + Kaggle&lt;/strong&gt; | 15.071x The Analytics Edge (&lt;a href=&#34;https://www.edx.org/course/analytics-edge-mitx-15-071x-3&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Coursera&lt;/strong&gt; | &lt;strong&gt;Eindhoven University of Technology&lt;/strong&gt; | Process Mining: Data science in Action (&lt;a href=&#34;https://www.coursera.org/learn/process-mining&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;edX&lt;/strong&gt; | &lt;strong&gt;University of California, Berkeley&lt;/strong&gt; | XSeries - Data Science and Engineering with Apache Spark:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CS105x Introduction to Apache Spark (&lt;a href=&#34;https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;CS120x Distributed Machine Learning with Apache Spark (&lt;a href=&#34;https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;CS110x Big Data Analysis with Apache Spark (&lt;a href=&#34;https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;edX&lt;/strong&gt; | &lt;strong&gt;University of Michigan&lt;/strong&gt; | DS101x Data Science Ethics (&lt;a href=&#34;https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;LinkedIn Learning&lt;/strong&gt; | Building Deep Learning Applications with Keras 2.0 and Tensorflow/Theano (&lt;a href=&#34;https://www.linkedin.com/learning/building-deep-learning-applications-with-keras-2-0&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are into data science and in need of any help with your career just drop me &lt;a href=&#34;/#contact&#34;&gt;a line or two&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

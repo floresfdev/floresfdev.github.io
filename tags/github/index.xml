@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on Fernando Flores</title>
+    <link>/tags/github/</link>
+    <description>Recent content in Github on Fernando Flores</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Fernando Flores</copyright>
+    <lastBuildDate>Sun, 27 Aug 2017 11:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/github/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Creating this site with blogdown and hugo in GitHub</title>
+      <link>/post/20170827-data-science-courses/</link>
+      <pubDate>Sun, 27 Aug 2017 11:00:00 +0000</pubDate>
+      
+      <guid>/post/20170827-data-science-courses/</guid>
+      <description>&lt;p&gt;Lorem ipsum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
