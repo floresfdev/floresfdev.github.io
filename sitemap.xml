@@ -140,6 +140,15 @@
     
     <url>
     
+      <loc>/post/20170827-ai-safety/</loc>
+      <lastmod>2017-08-27T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/20170827-my-learning-path-in-data-science/</loc>
       <lastmod>2017-08-27T11:00:00+00:00</lastmod>
     </url>
@@ -205,6 +214,16 @@
     
       <loc>/talk/01-digital-signature/</loc>
       <lastmod>2011-06-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/ai/</loc>
+      <lastmod>2017-08-27T12:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
