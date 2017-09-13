@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/project/01-coursera-r-programming-1/</loc>
+      <loc>/project/01-instagram-r-scraper/</loc>
       <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,134 +14,134 @@
     
     <url>
     
-      <loc>/project/02-coursera-r-programming-2/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/03-coursera-r-programming-3/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/04-coursera-get-data/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/05-coursera-eda-1/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/06-coursera-eda-2/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/07-coursera-reproducible-research-1/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/08-coursera-reproducible-research-2/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/09-coursera-stat-inference/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/10-coursera-regression-models/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/11-mit-analytics-edge/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/21-ucb-spark-intro/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/22-ucb-spark-ml/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/23-ucb-spark-bigdata/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/50-instagram-r-scraper/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/51-toggl-dashboard/</loc>
+      <loc>/project/02-toggl-dashboard/</loc>
       <lastmod>2017-09-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/101-coursera-r-programming-1/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/102-coursera-r-programming-2/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/103-coursera-r-programming-3/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/104-coursera-get-data/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/105-coursera-eda-1/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/106-coursera-eda-2/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/107-coursera-reproducible-research-1/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/108-coursera-reproducible-research-2/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/109-coursera-stat-inference/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/110-coursera-regression-models/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/111-mit-analytics-edge/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/121-ucb-spark-intro/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/122-ucb-spark-ml/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/123-ucb-spark-bigdata/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     </url>
     
   

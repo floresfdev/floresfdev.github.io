@@ -11,137 +11,137 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Coursera | R Programming | Project assignment 1</title>
-      <link>/project/01-coursera-r-programming-1/</link>
+      <title>Instagram R scraper</title>
+      <link>/project/01-instagram-r-scraper/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/01-coursera-r-programming-1/</guid>
+      <guid>/project/01-instagram-r-scraper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toggl Dashboard</title>
+      <link>/project/02-toggl-dashboard/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/02-toggl-dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coursera | R Programming | Project assignment 1</title>
+      <link>/project/101-coursera-r-programming-1/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/101-coursera-r-programming-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coursera | R Programming | Project assignment 2</title>
-      <link>/project/02-coursera-r-programming-2/</link>
+      <link>/project/102-coursera-r-programming-2/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/02-coursera-r-programming-2/</guid>
+      <guid>/project/102-coursera-r-programming-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coursera | R Programming | Project assignment 3</title>
-      <link>/project/03-coursera-r-programming-3/</link>
+      <link>/project/103-coursera-r-programming-3/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/03-coursera-r-programming-3/</guid>
+      <guid>/project/103-coursera-r-programming-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coursera | Getting and Cleaning Data | Project assignment</title>
-      <link>/project/04-coursera-get-data/</link>
+      <link>/project/104-coursera-get-data/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/04-coursera-get-data/</guid>
+      <guid>/project/104-coursera-get-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coursera | Exploratory Data Analysis | Project assignment 1</title>
-      <link>/project/05-coursera-eda-1/</link>
+      <link>/project/105-coursera-eda-1/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/05-coursera-eda-1/</guid>
+      <guid>/project/105-coursera-eda-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coursera | Exploratory Data Analysis | Project assignment 2</title>
-      <link>/project/06-coursera-eda-2/</link>
+      <link>/project/106-coursera-eda-2/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/06-coursera-eda-2/</guid>
+      <guid>/project/106-coursera-eda-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coursera | Reproducible Research | Project assignment 1</title>
-      <link>/project/07-coursera-reproducible-research-1/</link>
+      <link>/project/107-coursera-reproducible-research-1/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/07-coursera-reproducible-research-1/</guid>
+      <guid>/project/107-coursera-reproducible-research-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coursera | Reproducible Research | Project assignment 2</title>
-      <link>/project/08-coursera-reproducible-research-2/</link>
+      <link>/project/108-coursera-reproducible-research-2/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/08-coursera-reproducible-research-2/</guid>
+      <guid>/project/108-coursera-reproducible-research-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coursera | Statistical Inference | Project assignments 1 and 2</title>
-      <link>/project/09-coursera-stat-inference/</link>
+      <link>/project/109-coursera-stat-inference/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/09-coursera-stat-inference/</guid>
+      <guid>/project/109-coursera-stat-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coursera | Regression Models | Project assignment</title>
-      <link>/project/10-coursera-regression-models/</link>
+      <link>/project/110-coursera-regression-models/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/10-coursera-regression-models/</guid>
+      <guid>/project/110-coursera-regression-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>edX | 15.071x: The Analytics Edge | Coursework and Kaggle competition</title>
-      <link>/project/11-mit-analytics-edge/</link>
+      <link>/project/111-mit-analytics-edge/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/11-mit-analytics-edge/</guid>
+      <guid>/project/111-mit-analytics-edge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>edX | CS105x: Introduction to Apache Spark | Lab notebooks</title>
-      <link>/project/21-ucb-spark-intro/</link>
+      <link>/project/121-ucb-spark-intro/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/21-ucb-spark-intro/</guid>
+      <guid>/project/121-ucb-spark-intro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>edX | CS120x: Distributed Machine Learning with Apache Spark | Lab notebooks</title>
-      <link>/project/22-ucb-spark-ml/</link>
+      <link>/project/122-ucb-spark-ml/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/22-ucb-spark-ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>edX | CS110x: Big Data Analysis with Apache Spark | Lab notebooks</title>
-      <link>/project/23-ucb-spark-bigdata/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/23-ucb-spark-bigdata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>instagram-r-scraper</title>
-      <link>/project/50-instagram-r-scraper/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/50-instagram-r-scraper/</guid>
+      <guid>/project/122-ucb-spark-ml/</guid>
       <description></description>
     </item>
     
