@@ -11,6 +11,15 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Debate | Let&#39;s talk AI</title>
+      <link>/talk/04-lets-talk-ai/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/04-lets-talk-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How to provide remote software services</title>
       <link>/talk/03-provide-remote-services/</link>
       <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
