@@ -25,7 +25,14 @@
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/project/02-toggl-dashboard/</guid>
-      <description></description>
+      <description>&lt;p&gt;Time tracking is one of the resources in my toolset to manage my life and work. I have been a &lt;a href=&#34;https://toggl.com/&#34; target=&#34;_blank&#34;&gt;Toggl&lt;/a&gt; user for many years now because the official applications has excellent UX and nice features to analyze the tracked activities. Nevertheless, I needed further analysis of my time tracking patterns.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve built this &lt;a href=&#34;https://rstudio.github.io/shinydashboard/&#34; target=&#34;_blank&#34;&gt;shinydashboard&lt;/a&gt; application with R to cover some of these personal requirements. Right now it uses a dataset exported from Toggl&amp;rsquo;s Detailed Reports (part of the content has been changed to anonymize the data), but API integration is one of the goals for future versions.&lt;/p&gt;
+
+&lt;p&gt;This application is published on &lt;a href=&#34;https://floresf.shinyapps.io/toggl-dashboard/&#34; target=&#34;_blank&#34;&gt;shinyapps.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Source code on &lt;a href=&#34;https://github.com/floresfdev/toggl-dashboard&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
