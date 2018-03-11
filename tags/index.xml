@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Fernando Flores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Fernando Flores</copyright>
+    <copyright>&amp;copy; 2018 Fernando Flores</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/" rel="self" type="application/rss+xml" />
     
@@ -44,6 +44,15 @@
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>/tags/books/</link>
+      <pubDate>Sun, 11 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>/tags/books/</guid>
       <description></description>
     </item>
     

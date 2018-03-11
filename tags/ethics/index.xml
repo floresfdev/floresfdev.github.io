@@ -6,16 +6,16 @@
     <description>Recent content in Ethics on Fernando Flores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Fernando Flores</copyright>
+    <copyright>&amp;copy; 2018 Fernando Flores</copyright>
     <lastBuildDate>Sun, 27 Aug 2017 13:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/ethics/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ethics in data science</title>
-      <link>/post/20170827-ethics-in-data-science/</link>
+      <link>/blog/2017/08/27/ethics-in-data-science/</link>
       <pubDate>Sun, 27 Aug 2017 13:00:00 +0000</pubDate>
       
-      <guid>/post/20170827-ethics-in-data-science/</guid>
+      <guid>/blog/2017/08/27/ethics-in-data-science/</guid>
       <description>&lt;p&gt;Working with data is not only about algorithms, feature selection, business domain and all of the other technical topics usually brought up in discussions about the field. The current availability of data and processing power enables us to invent new ways to approach problems in society. Now more than ever, we as tech workers need to think how to act ethically and not just by the law.&lt;/p&gt;
 
 &lt;p&gt;Fortunately in the past years we saw new initiatives like &lt;a href=&#34;http://www.fatml.org/&#34; target=&#34;_blank&#34;&gt;Fairness, Accountability, and Transparency in Machine Learning&lt;/a&gt;, books like &lt;a href=&#34;https://weaponsofmathdestructionbook.com/&#34; target=&#34;_blank&#34;&gt;Weapons of Math Destruction&lt;/a&gt; and courses like &lt;a href=&#34;https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1&#34; target=&#34;_blank&#34;&gt;Data Science Ethics&lt;/a&gt;.&lt;/p&gt;

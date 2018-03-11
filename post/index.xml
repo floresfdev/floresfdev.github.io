@@ -1,21 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Fernando Flores</title>
+    <title>Blog on Fernando Flores</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Fernando Flores</description>
+    <description>Recent content in Blog on Fernando Flores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Fernando Flores</copyright>
+    <copyright>&amp;copy; 2018 Fernando Flores</copyright>
     <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Books I&#39;ve read on 2017</title>
+      <link>/blog/2018/03/11/books-ive-read-on-2017/</link>
+      <pubDate>Sun, 11 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/03/11/books-ive-read-on-2017/</guid>
+      <description>&lt;p&gt;For 2017, as part of my yearly planning, I tried to make more time to read several books that I had selected from my list (&lt;a href=&#34;https://en.wikipedia.org/wiki/Tsundoku&#34; target=&#34;_blank&#34;&gt;tsundoku&lt;/a&gt;, anyone?). It felt like a good challenge, both in planning and execution, and now I can say it was a great initiative to move forward in both my personal and professional life.&lt;/p&gt;
+
+&lt;p&gt;From january to december, I had read the following books: &lt;/p&gt;
+
+&lt;h2 id=&#34;data-science&#34;&gt;Data science&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mastering Social Media Mining with R&lt;/strong&gt; by Sharan Kumar Ravindran and Vikram Garg (&lt;a href=&#34;https://www.goodreads.com/book/show/26841278-mastering-social-media-mining-with-r&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy&lt;/strong&gt; by Cathy O&amp;rsquo;Neil (&lt;a href=&#34;https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R for Data Science: Import, Tidy, Transform, Visualize, and Model Data&lt;/strong&gt; by Hadley Wickham and Garrett Grolemund (&lt;a href=&#34;http://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt; | &lt;a href=&#34;https://www.goodreads.com/book/show/33399049-r-for-data-science&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practical Statistics for Data Scientists: 50 Essential Concepts&lt;/strong&gt; by Peter Bruce and Andrew Bruce (&lt;a href=&#34;https://www.goodreads.com/book/show/28646693-practical-statistics-for-data-scientists&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analyzing the Analyzers: An Introspective Survey of Data Scientists and Their Work&lt;/strong&gt; (&lt;a href=&#34;http://www.oreilly.com/data/free/analyzing-the-analyzers.csp&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Text Mining with R: A Tidy Approach&lt;/strong&gt; by Julia Silge and David Robinson (&lt;a href=&#34;http://tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt; | &lt;a href=&#34;https://www.goodreads.com/book/show/34006736-text-mining-with-r&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developing Data Products in R&lt;/strong&gt; by Brian Caffo (&lt;a href=&#34;https://leanpub.com/ddp&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Think Like a Data Scientist: Tackle the data science process step-by-step&lt;/strong&gt; by Brian Godsey (&lt;a href=&#34;https://www.goodreads.com/book/show/31670583-think-like-a-data-scientist&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Statistics Done Wrong: The Woefully Complete Guide&lt;/strong&gt; by Alex Reinhart (&lt;a href=&#34;https://www.goodreads.com/book/show/23241062-statistics-done-wrong&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;project-management&#34;&gt;Project management&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Commitment: A Novel about Managing Project Risk&lt;/strong&gt; by Olav Maassen, Chris Matts and Chris Geary (&lt;a href=&#34;https://www.goodreads.com/book/show/17910885-commitment&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;fiction&#34;&gt;Fiction&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The World According to Garp&lt;/strong&gt; by John Irving (&lt;a href=&#34;https://www.goodreads.com/book/show/7069.The_World_According_to_Garp&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;essay&#34;&gt;Essay&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Homo Deus: A Brief History of Tomorrow&lt;/strong&gt; by Yuval Noah Harari (&lt;a href=&#34;https://www.goodreads.com/book/show/28092869-homo-deus&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;We Should All Be Feminists&lt;/strong&gt; by Chimamanda Ngozi Adichie (&lt;a href=&#34;https://www.goodreads.com/book/show/22738563-we-should-all-be-feminists&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Missionary Position: Mother Teresa in Theory and Practice&lt;/strong&gt; by Christopher Hitchens (&lt;a href=&#34;https://www.goodreads.com/book/show/43372.The_Missionary_Position&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Perfect Wagnerite: A Commentary on The Niblung&amp;rsquo;s Ring&lt;/strong&gt; by George Bernard Shaw (&lt;a href=&#34;https://www.goodreads.com/book/show/830410.The_Perfect_Wagnerite&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Other material I&amp;rsquo;ve often used as a reference for my data-related activities:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Advanced R&lt;/strong&gt; by Hadley Wickham (&lt;a href=&#34;http://adv-r.had.co.nz/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt; | &lt;a href=&#34;https://www.goodreads.com/book/show/22578860-advanced-r&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;An Introduction to Statistical Learning: With Applications in R&lt;/strong&gt; by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (&lt;a href=&#34;http://www-bcf.usc.edu/~gareth/ISL/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt; | &lt;a href=&#34;https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Elements of Statistical Learning: Data Mining, Inference, and Prediction&lt;/strong&gt; by Trevor Hastie, Robert Tibshirani and Jerome Friedman (&lt;a href=&#34;https://web.stanford.edu/~hastie/ElemStatLearn/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt; | &lt;a href=&#34;https://www.goodreads.com/book/show/4094864-the-elements-of-statistical-learning&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Computer Age Statistical Inference: Algorithms, Evidence, and Data Science&lt;/strong&gt; by Bradley Efron and Trevor Hastie (&lt;a href=&#34;https://web.stanford.edu/~hastie/CASI/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt; |  &lt;a href=&#34;https://www.goodreads.com/book/show/30462852-computer-age-statistical-inference&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;The math refresher chapters of the &lt;strong&gt;Deep Learning&lt;/strong&gt; book by Ian Goodfellow, Yoshua Bengio and Aaron Courville (&lt;a href=&#34;http://www.deeplearningbook.org/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt; | &lt;a href=&#34;https://www.goodreads.com/book/show/24072897-deep-learning&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R Packages: Organize, Test, Document, and Share Your Code&lt;/strong&gt; by Hadley Wickham (&lt;a href=&#34;http://r-pkgs.had.co.nz/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt; | &lt;a href=&#34;https://www.goodreads.com/book/show/25257349-r-packages&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Ethics in data science</title>
-      <link>/post/20170827-ethics-in-data-science/</link>
+      <link>/blog/2017/08/27/ethics-in-data-science/</link>
       <pubDate>Sun, 27 Aug 2017 13:00:00 +0000</pubDate>
       
-      <guid>/post/20170827-ethics-in-data-science/</guid>
+      <guid>/blog/2017/08/27/ethics-in-data-science/</guid>
       <description>&lt;p&gt;Working with data is not only about algorithms, feature selection, business domain and all of the other technical topics usually brought up in discussions about the field. The current availability of data and processing power enables us to invent new ways to approach problems in society. Now more than ever, we as tech workers need to think how to act ethically and not just by the law.&lt;/p&gt;
 
 &lt;p&gt;Fortunately in the past years we saw new initiatives like &lt;a href=&#34;http://www.fatml.org/&#34; target=&#34;_blank&#34;&gt;Fairness, Accountability, and Transparency in Machine Learning&lt;/a&gt;, books like &lt;a href=&#34;https://weaponsofmathdestructionbook.com/&#34; target=&#34;_blank&#34;&gt;Weapons of Math Destruction&lt;/a&gt; and courses like &lt;a href=&#34;https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1&#34; target=&#34;_blank&#34;&gt;Data Science Ethics&lt;/a&gt;.&lt;/p&gt;
@@ -28,10 +87,10 @@
     
     <item>
       <title>AI safety</title>
-      <link>/post/20170827-ai-safety/</link>
+      <link>/blog/2017/08/27/ai-safety/</link>
       <pubDate>Sun, 27 Aug 2017 12:00:00 +0000</pubDate>
       
-      <guid>/post/20170827-ai-safety/</guid>
+      <guid>/blog/2017/08/27/ai-safety/</guid>
       <description>&lt;p&gt;Safety in Machine Learning and Artificial Intelligence is a very active research area. For a quick introduction to the subject in bite-sized chunks I strongly recommend to follow the work of &lt;a href=&#34;https://twitter.com/robertskmiles&#34; target=&#34;_blank&#34;&gt;Robert Miles&lt;/a&gt;. After gaining popularity in &lt;a href=&#34;https://twitter.com/computer_phile&#34; target=&#34;_blank&#34;&gt;Computerphile videos&lt;/a&gt; he has now his own &lt;a href=&#34;https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg/&#34; target=&#34;_blank&#34;&gt;YouTube channel&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Computerphile compiled a &lt;a href=&#34;https://www.youtube.com/playlist?list=PLzH6n4zXuckquVnQ0KlMDxyT5YE-sA8Ps&#34; target=&#34;_blank&#34;&gt;playlist about AI&lt;/a&gt; and Rob is producing a very interesting video series about a &lt;a href=&#34;https://arxiv.org/abs/1606.06565&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; on concrete problems in AI safety &lt;a href=&#34;https://www.youtube.com/playlist?list=PLqL14ZxTTA4fEp5ltiNinNHdkPuLK4778&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -40,10 +99,10 @@
     
     <item>
       <title>My learning path in data science</title>
-      <link>/post/20170827-my-learning-path-in-data-science/</link>
+      <link>/blog/2017/08/27/my-learning-path-in-data-science/</link>
       <pubDate>Sun, 27 Aug 2017 11:00:00 +0000</pubDate>
       
-      <guid>/post/20170827-my-learning-path-in-data-science/</guid>
+      <guid>/blog/2017/08/27/my-learning-path-in-data-science/</guid>
       <description>&lt;p&gt;For more than two years now, in parallel to my daily data-related work, I&amp;rsquo;ve enrolled in several interesting courses. In this post I&amp;rsquo;d like to describe these as part of my learning path,  even when some of them are no longer active you can still grab the resources.&lt;/p&gt;
 
 &lt;ul&gt;
