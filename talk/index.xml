@@ -11,6 +11,24 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An introduction to data science with the R language</title>
+      <link>/talk/05-intro-data-science-r/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/05-intro-data-science-r/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;English:&lt;/strong&gt; The goal of this talk is to introduce the audience to the data science activities and how R can help in each stage. Through a quick overview, I present part of the toolbox available in the R ecosystem that is useful in the data science lifecycle, from getting, tidying and formating data, to analysis, visualization, modeling and communication.&lt;/p&gt;
+
+&lt;p&gt;It is worth mentioning the importance of the collaborative spirit in the R community, developing free software packages to enrich the language&amp;rsquo;s capabilities and approach the challenges in the field. Along the same lines, it&amp;rsquo;s important to point out the outstanding work being done by organizations and taskforces like R-Ladies and R Forwards to promote gender diversity and inclusion of underrepresented groups in the sector.&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spanish:&lt;/strong&gt; Esta charla tiene como objetivo presentar una introducción a la ciencia de datos y la utilización del lenguaje R para abordar las diferentes actividades de la disciplina. Repasando algunos ejemplos de aplicación, el conjunto de herramientas libres disponibles en el ecosistema de R da soporte al ciclo de vida integral de data science, pasando por las etapas de obtención y formateo de datos, análisis, visualización, modelado y comunicación.&lt;/p&gt;
+
+&lt;p&gt;Es importante mencionar la gran incidencia que tiene el espíritu colaborativo de la comunidad alrededor de R, que desarrolla y difunde paquetes de software libre para enriquecer las capacidades del lenguaje y resolver los desafíos de la actividad. Además, es importante destacar las organizaciones y grupos de trabajo como R-Ladies y R Forwards, que abordan problemáticas de inclusión a fin de incrementar la participación de grupos con poca representación en el sector.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Debate | Let&#39;s talk AI</title>
       <link>/talk/04-lets-talk-ai/</link>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
