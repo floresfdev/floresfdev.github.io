@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Fernando Flores</title>
+    <link>/tags/talks/</link>
+    <description>Recent content in Talks on Fernando Flores</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Fernando Flores</copyright>
+    <lastBuildDate>Tue, 01 May 2018 18:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/talks/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spreading the word: My talk on data science with R</title>
+      <link>/blog/2018/05/01/spreading-the-word-my-talk-on-data-science-with-r/</link>
+      <pubDate>Tue, 01 May 2018 18:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/05/01/spreading-the-word-my-talk-on-data-science-with-r/</guid>
+      <description>&lt;p&gt;Last week I had a great time at the &lt;a href=&#34;https://flisol.info/FLISOL2018/Argentina/SanMiguel&#34; target=&#34;_blank&#34;&gt;FLISoL 2018 Tucumán&lt;/a&gt;. First organized in 2005, the &lt;em&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/em&gt; (Latin American Free Software Install Fest) is the biggest event for spreading free software in Latin America and Spain. &lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://lugtucuman.usla.org.ar/&#34; target=&#34;_blank&#34;&gt;Tucumán Linux User Group&lt;/a&gt;, organizer of the local chapter, accepted my talk proposal about data science and R, so I had plenty of reasons to be excited. I deliberately built my talk for a begginer audience with no technical background needed, the only requirement was interest in data analysis. That said, I knew the challenge ahead was big but worthy of a shot because I believe we need to work harder on outreach about these topics in my local region. After all, being a data scientist means one has to be able to communicate concepts to non-technical audiences all the time.&lt;/p&gt;
+
+&lt;p&gt;I was happy to see so many young people attending the talk, highschoolers in particular. They seemed very interested in the subject, taking notes and asking questions. After the session, a couple of high school teachers wanted to know more because, judging from what they saw, they thought R can be a neat tool in the classroom. The whole experience made me felt good, and I can call this mission accomplished.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in the PDF slides (in spanish) and further details, please check out &lt;a href=&#34;/talk/05-intro-data-science-r/&#34;&gt;the talk page&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
