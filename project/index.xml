@@ -7,16 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Fernando Flores</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Instagram R scraper</title>
-      <link>/project/01-instagram-r-scraper/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      <title>wtkapi R package</title>
+      <link>/project/01-wtkapi-package/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/01-instagram-r-scraper/</guid>
-      <description></description>
+      <guid>/project/01-wtkapi-package/</guid>
+      <description>&lt;p&gt;The goal of &lt;code&gt;wtkapi&lt;/code&gt; is to get data from the Gridded Atmospheric &lt;a href=&#34;https://www.nrel.gov/grid/wind-toolkit.html&#34; target=&#34;_blank&#34;&gt;Wind Integration National Dataset Toolkit&lt;/a&gt; in tidy format to leverage technical analysis of atmospheric data.&lt;/p&gt;
+
+&lt;p&gt;Source code and usage examples on &lt;a href=&#34;https://github.com/floresfdev/wtkapi&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://gitlab.com/floresf/wtkapi&#34; target=&#34;_blank&#34;&gt;GitLab&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,6 +36,15 @@
 
 &lt;p&gt;Source code on &lt;a href=&#34;https://github.com/floresfdev/toggl-dashboard&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Instagram R scraper</title>
+      <link>/project/03-instagram-r-scraper/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/03-instagram-r-scraper/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -140,15 +152,6 @@
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/project/121-ucb-spark-intro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>edX | CS120x: Distributed Machine Learning with Apache Spark | Lab notebooks</title>
-      <link>/project/122-ucb-spark-ml/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/122-ucb-spark-ml/</guid>
       <description></description>
     </item>
     

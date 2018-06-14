@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>/project/01-instagram-r-scraper/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+      <loc>/project/01-wtkapi-package/</loc>
+      <lastmod>2018-06-14T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -16,6 +16,15 @@
     
       <loc>/project/02-toggl-dashboard/</loc>
       <lastmod>2017-09-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/03-instagram-r-scraper/</loc>
+      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -296,7 +305,7 @@
     <url>
     
       <loc>/tags/big-data/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -335,7 +344,7 @@
     <url>
     
       <loc>/tags/data-science/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -355,7 +364,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -365,7 +374,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -394,7 +403,7 @@
     <url>
     
       <loc>/tags/r/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
