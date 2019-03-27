@@ -7,8 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Fernando Flores</copyright>
-    <lastBuildDate>Sun, 11 Mar 2018 15:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 16:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/books/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My 2018 reading list</title>
+      <link>/blog/2019/03/27/my-2018-reading-list/</link>
+      <pubDate>Wed, 27 Mar 2019 16:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/03/27/my-2018-reading-list/</guid>
+      <description>&lt;p&gt;Yet another year of books! Ok, in comparison with the previous list, this one is much shorter. 2018 was a great year, full of challenges, work activities and fun, so I didn&amp;rsquo;t commit too much time to reading.&lt;/p&gt;
+
+&lt;p&gt;Without further ado, the books I&amp;rsquo;ve read were: &lt;/p&gt;
+
+&lt;h2 id=&#34;data-and-software&#34;&gt;Data and software&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Art of Readable Code: Simple and Practical Techniques for Writing Better Code&lt;/strong&gt; by Dustin Boswell and Trevor Foucher (&lt;a href=&#34;https://www.goodreads.com/book/show/8677004-the-art-of-readable-code&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mastering Bitcoin: Programming the Open Blockchain&lt;/strong&gt; by Andreas M. Antonopoulos (&lt;a href=&#34;https://bitcoinbook.info/&#34; target=&#34;_blank&#34;&gt;site&lt;/a&gt; | &lt;a href=&#34;https://github.com/bitcoinbook/bitcoinbook&#34; target=&#34;_blank&#34;&gt;GitHub repo&lt;/a&gt; | &lt;a href=&#34;https://www.goodreads.com/book/show/35432045-mastering-bitcoin&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Testing R Code&lt;/strong&gt; by Richard Cotton (&lt;a href=&#34;https://www.goodreads.com/book/show/34050561-testing-r-code&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ethics and Data Science&lt;/strong&gt; by Mike Loukides, Hilary Mason and DJ Patil (&lt;a href=&#34;https://www.amazon.com/Ethics-Data-Science-Mike-Loukides-ebook/dp/B07GTC8ZN7/&#34; target=&#34;_blank&#34;&gt;Free Amazon Kindle edition&lt;/a&gt; | &lt;a href=&#34;https://www.goodreads.com/book/show/41543548-ethics-and-data-science&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;fiction&#34;&gt;Fiction&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;I Am a Cat&lt;/strong&gt; by Natsume Sōseki (&lt;a href=&#34;https://www.goodreads.com/book/show/62772.I_Am_a_Cat&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Microserfs&lt;/strong&gt; by Douglas Coupland (&lt;a href=&#34;https://www.goodreads.com/book/show/2748.Microserfs&#34; target=&#34;_blank&#34;&gt;goodreads&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>Books I&#39;ve read on 2017</title>
